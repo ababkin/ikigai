@@ -1,0 +1,9 @@
+{
+  "root": "build/",
+  "clean_urls": false,
+  "routes": {
+    "/**": "index.html"
+  },
+  "canonical_host": "bosch.trailheadchallenge.com",
+  "https_only": true
+}

@@ -1,0 +1,8 @@
+.active {font-weight: 700;}
+.centered{
+  position:absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateXY(-50% 50%);
+}
+.hidden{display: none;}
